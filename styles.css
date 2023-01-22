@@ -153,3 +153,27 @@ a{
     margin-right: 0%;
     
 }
+.signup{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.form{
+    margin:36px 72px;
+    padding: 24px 64px;
+    background-color: #3882F6; 
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-around;
+    gap: 60px;
+    color:#E5E7EB;
+    flex-shrink: 0;
+}
+
+.form button{
+    border:2px solid #F9FAF8;
+    width:80px
+}
+#tt{
+    font-size: 12px;
+}
